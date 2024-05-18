@@ -128,7 +128,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-echo "node_modules/" > .gitignore
-echo "npm-debug.log" >> .gitignore
-echo ".env" >> .gitignore
 
