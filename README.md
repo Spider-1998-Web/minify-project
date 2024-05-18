@@ -21,12 +21,12 @@ minify
 
 To specify a different input directory, run:
 
-minify <path-to-input-directory>
+minify path-to-input-directory
 
 
 To install the tool globally, run:
 
-npm install -g <path-to-your-project>
+npm install -g path-to-your-project
 
 ## Dependencies
 
