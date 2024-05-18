@@ -1,0 +1,20 @@
+{
+  "name": "minify-project",
+  "version": "1.0.0",
+  "description": "A tool to minify files",
+  "main": "index.js",
+  "bin": {
+    "minify": "./bin/minify.js"
+  },
+  "scripts": {
+    "start": "node bin/minify.js"
+  },
+  "dependencies": {
+    "html-minifier-terser": "^6.0.0",
+    "csso": "^5.0.0",
+    "terser": "^5.0.0",
+    "copy-dir": "^1.3.0"
+  },
+  "author": "Aman Raheem",
+  "license": "ISC"
+}
